@@ -1,6 +1,8 @@
 # NestedRecyclerView-Example
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+This project helps you to understand how we have used the nestedrecyclerview. This is build on MVVM architecture.
+
 # Development
 
 A native Android app using Java for writing code.
@@ -16,7 +18,7 @@ git clone https://github.com/username/NestedRecyclerView-Example.git
 ```
 **Setting up the Android Project**
 
-1.Download the BookList project source. You can do this either by forking and cloning the repository (recommended if you plan on pushing changes) or by downloading it as a ZIP file and extracting it.
+1.Download the NestedRecyclerView project source. You can do this either by forking and cloning the repository (recommended if you plan on pushing changes) or by downloading it as a ZIP file and extracting it.
 
 2.Open Android Studio, you will see a Welcome to Android window. Under Quick Start, select Import Project (Eclipse ADT, Gradle, etc.)
 
@@ -32,17 +34,15 @@ git clone https://github.com/username/NestedRecyclerView-Example.git
 
 7.If the app was built successfully, you can test it by running it on either a real device or an emulated one by going to Run>Run 'app' or pressing the Run icon in the toolbar.
 
-**Libraries used in this project**
+**Dependencies in this project**
 
-Retrofit [Docs](http://square.github.io/retrofit/2.x/retrofit/)
-
-GSON Converter [Docs](https://github.com/square/retrofit/tree/master/retrofit-converters/gson/)
-
-CardView [Docs](https://developer.android.com/guide/topics/ui/layout/cardview)
-
-RecyclerView [Docs](https://developer.android.com/guide/topics/ui/layout/recyclerview)
-
-Glide [Docs](https://github.com/bumptech/glide)
+- [appcompat-v7:28.0.0](https://mvnrepository.com/artifact/com.android.support/appcompat-v7/28.0.0-alpha1)
+- [junit:4.12](https://mvnrepository.com/artifact/junit/junit/4.12)
+- [cardview-v7:28.0.0](https://mvnrepository.com/artifact/com.android.support/cardview-v7/28.0.0-alpha1)
+- [retrofit](https://square.github.io/retrofit/)
+- [glide](https://bumptech.github.io/glide/)
+- [RecyclerView](https://mvnrepository.com/artifact/androidx.recyclerview/recyclerview)
+- [Gson](https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson)
 
 **API Used**
 
