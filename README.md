@@ -53,10 +53,9 @@ Bolkar [Endpoint](https://d51md7wh0hu8b.cloudfront.net/android/v1/prod/Radio/hi/
 <table border="0">
   <tr>
     <td><img src="https://user-images.githubusercontent.com/40353347/84050437-5e134d80-a9cb-11ea-9a1e-0fdb62f91206.png" width="300"></td>
+      <td><img src="https://user-images.githubusercontent.com/40353347/84050555-81d69380-a9cb-11ea-99ef-14221423bdff.png" width="300"></td>
     <td><img src="https://user-images.githubusercontent.com/40353347/84050476-6d929680-a9cb-11ea-98c9-9df506167a7d.png" width="300"></td>
     <td><img src="https://user-images.githubusercontent.com/40353347/84050509-77b49500-a9cb-11ea-99b6-47085c8a1341.png" width="300"></td>
- 
-   <td><img src="https://user-images.githubusercontent.com/40353347/84050555-81d69380-a9cb-11ea-99ef-14221423bdff.png" width="300"></td>
   </tr>
 </table>
 
