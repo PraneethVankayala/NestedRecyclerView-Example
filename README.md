@@ -12,7 +12,7 @@ A native Android app using Java for writing code.
 - Clone the repository using the terminal command.Make sure you replace `username` with your github username
 
 ```
-git clone https://github.com/usernameNestedRecyclerView-Example.git
+git clone https://github.com/username/NestedRecyclerView-Example.git
 ```
 **Setting up the Android Project**
 
@@ -49,6 +49,13 @@ Glide [Docs](https://github.com/bumptech/glide)
 Bolkar [Endpoint](https://d51md7wh0hu8b.cloudfront.net/android/v1/prod/Radio/hi/show.json)
 
 # Screenshots
+![Screenshot_1591620737](https://user-images.githubusercontent.com/40353347/84050437-5e134d80-a9cb-11ea-9a1e-0fdb62f91206.png)
+
+![Screenshot_1591621014](https://user-images.githubusercontent.com/40353347/84050476-6d929680-a9cb-11ea-98c9-9df506167a7d.png)
+
+![Screenshot_1591621029](https://user-images.githubusercontent.com/40353347/84050509-77b49500-a9cb-11ea-99b6-47085c8a1341.png)
+![Screenshot_1591621072](https://user-images.githubusercontent.com/40353347/84050555-81d69380-a9cb-11ea-99ef-14221423bdff.png)
+
 
 # Build On
 
